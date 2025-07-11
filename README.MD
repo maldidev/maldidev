@@ -1,4 +1,4 @@
-
+look
 
 ---
 
@@ -9,7 +9,8 @@
 [![Void Linux](https://img.shields.io/badge/Void_Linux-000000?style=for-the-badge&logo=void-linux&logoColor=white)](https://voidlinux.org)
 [![Artix Linux](https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white)](https://artixlinux.org)
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/)
-[![Linux Mint](https://img.shields.io/badge/Linux_Mint-0D597F?style=for-the-badge&logo=linuxmint&logoColor=green)](https://www.linuxmint.com/)
+[![Linux Mint](https://img.shields.io/badge/Linux_Mint-0D597F?style=for-the-badge&logo=linuxmint&logoColor=green)]
+(https://www.linuxmint.com/)
 [![Fedora Linux]
 (https://img.shields.io/badge/Fedora_Linux-1793D1?style=for-the-badge&logo=fedoralinux&logoColor=darkblue)]
 

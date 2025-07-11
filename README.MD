@@ -11,7 +11,7 @@
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/)
 [![Linux Mint](https://img.shields.io/badge/Linux_Mint-0D597F?style=for-the-badge&logo=linuxmint&logoColor=green)](https://www.linuxmint.com/)
 [![Fedora Linux]
-(https://img.shields.io/badge/Fedora_Linux-1793D1?style=for-the-badge&logo=fedoralinux&logoColor=darkblue)]
+(https://img.shields.io/badge/Fedora_Linux-1793D1?style=for-the-badge&logo=fedoralinux&logoColor=darkblue)](https://fedoralinux.com)
 
 #### ⚙️ Linux Init systems
 [![Runit](https://img.shields.io/badge/Runit-000000?style=for-the-badge&logo=linux&logoColor=white)](https://smarden.org/runit/)
